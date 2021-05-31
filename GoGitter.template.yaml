@@ -1,0 +1,15 @@
+forks: false
+pull: true
+zipAll: false
+sortByLanguage: true
+source:
+  github:
+    token: secret-token
+    user: username
+destination:
+  local: /Users/hayden/NewProjects
+  zip: /some/abs/path/for/zip
+keywords:
+  cookiecutter: CookieCutter
+  homelab: HomeLab
+  linux-dev: dotfiles
